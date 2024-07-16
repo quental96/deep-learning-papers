@@ -17,6 +17,8 @@
 - [2022](#2022)
 - [2023](#2023)
 
+## Details
+
 ### 2010
 
 - **Noise-contrastive Estimation: a New Estimation Principle for Unnormalized Statistical Models**
