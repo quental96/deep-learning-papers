@@ -1,5 +1,5 @@
 # Seminal Papers
 
-# [Computer Vision](computer_vision.md)
+## [Computer Vision](computer_vision.md)
 
-# [NLP](nlp.md)
+## [NLP](nlp.md)
