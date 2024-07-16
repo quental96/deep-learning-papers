@@ -1,6 +1,6 @@
 # Seminal Papers
 
-# NLP Papers
+# NLP
 
 ## Quick Links
 - [1997](#1997)
@@ -22,9 +22,7 @@
 - [2023](#2023)
 - [2024](#2024)
 
----
-
-## NLP
+## Details
 
 ### 1997
 
