@@ -2,6 +2,21 @@
 
 # Computer Vision
 
+## Quick Links
+- [2010](#2010)
+- [2012](#2012)
+- [2013](#2013)
+- [2014](#2014)
+- [2015](#2015)
+- [2016](#2016)
+- [2017](#2017)
+- [2018](#2018)
+- [2019](#2019)
+- [2020](#2020)
+- [2021](#2021)
+- [2022](#2022)
+- [2023](#2023)
+
 ### 2010
 
 - **Noise-contrastive Estimation: a New Estimation Principle for Unnormalized Statistical Models**
