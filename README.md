@@ -8,7 +8,6 @@ This repository's collection of research papers is inspired by and based on the 
 
 ## [Multimodal](multimodal.md)
 
----
 
 ## Computer Vision
 
