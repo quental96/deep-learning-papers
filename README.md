@@ -17,12 +17,12 @@ This repository's collection of research papers is inspired by and based on the 
 ## Natural Language Processing (NLP)
 
 **Number of Papers**:   
-**Years Covered**: 1997-2024
+**Years Covered**: 
 
 ## Multimodal
 
 **Number of Papers**:   
-**Years Covered**: 2015-2024
+**Years Covered**: 
 
 ## Contributing
 
