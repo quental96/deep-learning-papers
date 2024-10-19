@@ -11,17 +11,17 @@ This repository's collection of research papers is inspired by and based on the 
 
 ## Computer Vision
 
-**Number of Papers**: 49  
+**Number of Papers**:   
 **Years Covered**: 2010-2023
 
 ## Natural Language Processing (NLP)
 
-**Number of Papers**: 75  
+**Number of Papers**:   
 **Years Covered**: 1997-2024
 
 ## Multimodal
 
-**Number of Papers**: 73  
+**Number of Papers**:   
 **Years Covered**: 2015-2024
 
 ## Contributing
